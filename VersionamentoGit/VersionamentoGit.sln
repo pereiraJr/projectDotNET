@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionamentoGit", "VersionamentoGit\VersionamentoGit.csproj", "{E07AC9F1-AACE-4467-A68B-3CC76CFF166D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{E9845D26-795B-4E36-98DB-91EB94D45B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07AC9F1-AACE-4467-A68B-3CC76CFF166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07AC9F1-AACE-4467-A68B-3CC76CFF166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07AC9F1-AACE-4467-A68B-3CC76CFF166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07AC9F1-AACE-4467-A68B-3CC76CFF166D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9845D26-795B-4E36-98DB-91EB94D45B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9845D26-795B-4E36-98DB-91EB94D45B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9845D26-795B-4E36-98DB-91EB94D45B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9845D26-795B-4E36-98DB-91EB94D45B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
