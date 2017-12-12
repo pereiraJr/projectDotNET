@@ -10,7 +10,11 @@ namespace VersionamentoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Continuous Integration Succes");
+            if (true)
+            {
+                Console.WriteLine("Continuous Integration Succes");
+            }
+            
             
         }
     }
